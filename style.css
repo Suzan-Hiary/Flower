@@ -1,0 +1,28 @@
+
+
+body {
+   background-color: #fefecc}
+h1 {
+  text-align: center;
+  background: #f6b8b8;
+  color:#ba135d ;
+} 
+header img {
+  width: 200px;height: 200px ;
+}
+
+
+.header-nav ul li {
+  display: block flow;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ce97b0;
+}
+
+li {
+  color-font: #94d0cc ;
+  display: inline-grid;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #ce97b0;
+}
